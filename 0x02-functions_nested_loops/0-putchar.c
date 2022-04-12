@@ -4,8 +4,9 @@
 /**
  *main - Entry point
  *
- *Returning: nothing, return void
+ *Return: nothing, return void
  */
+
 int main(void)
 {
 _putchar('_');

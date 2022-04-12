@@ -1,13 +1,11 @@
 #include <stdio.h>
 #include "main.h"
 
-
 /**
  *main - Entry point
  *
  *Returning: nothing, return void
  */
-
 int main(void)
 {
 _putchar('_');

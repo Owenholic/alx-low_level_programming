@@ -2,8 +2,8 @@
 
 /**
  * main - program that prints the alphabet in lowercase, followed by a new line
- *you can only use putchar
- *Return: 0
+ * you can only use putchar
+ * Return: 0
 */
 
 int main(void)
@@ -21,6 +21,6 @@ putchar(lw);
 lw += 1;
 }
 }
-putchar(;\n');
-return (0)
+putchar('\n');
+return (0);
 }

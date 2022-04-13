@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include "main.h"
 /**
- *print_alphabet_x10(void)
-
- Return: Always 0.
+ * print_alphabet_x10(void)
+ *
+ * Return: Always 0.
  *
  */
 

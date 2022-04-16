@@ -24,7 +24,7 @@ num = num / 10;
 }
 _putchar((num2 / aux) = '0');
 aux = aux / 10;
-or (i = aux; i >= 1; = 1 / 10)
+for (i = aux; i >= 1; = 1 / 10)
 _putchar((num2 / i) % 10 + '0');
 }
 else

@@ -12,7 +12,7 @@ int aux = 1;
 if (n < 0)
 {
 n = n * -1;
-_putchar('_');
+_putchar('-');
 }
 num = n;
 if (num > 9)

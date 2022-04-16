@@ -8,10 +8,10 @@ void print_number(int n)
 {
 unsigned int num, num2;
 int i;
-int aux =1;
-if(n<0)
+int aux = 1;
+if (n < 0)
 {
-n=n * -1;
+n = n * -1;
 _putchar('_');
 }
 num = n;
